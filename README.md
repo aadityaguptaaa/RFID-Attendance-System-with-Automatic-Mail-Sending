@@ -25,7 +25,7 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 ## 🚀 Features
 - 📍 **RFID-based attendance marking**
 - 📊 **Data stored in Google Sheets**
-- 📧 **Automatic email reports to faculty**
+- 📧 **Automatic send email reports to faculty**
 - 🔔 **Daily scheduled email triggers**
 - 🖥️ **Web-based data access**
 
