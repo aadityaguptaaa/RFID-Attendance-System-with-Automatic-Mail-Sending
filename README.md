@@ -11,9 +11,9 @@ This project is a **Smart Attendance System** developed as part of my **Computer
   - [🖥️ Software & Tools](#%EF%B8%8F-software--tools)
 - [🛠️ Circuit Diagram](#%EF%B8%8F-circuit-diagram)
 - [🔧 Installation & Setup](#-installation--setup)
-  - [1️⃣ Hardware Setup]
-  - [2️⃣ Google Sheets & Apps Script Setup]
-  - [3️⃣ Arduino & NodeMCU Code]
+  - [1️⃣ Hardware Setup](#1️⃣-hardware-setup)
+  - [2️⃣ Google Sheets & Apps Script Setup](#2️⃣-google-sheets--apps-script-setup)
+  - [3️⃣ Arduino & NodeMCU Code](#3️⃣-arduino--nodemcu-code)
 - [🔧 How It Works](#-how-it-works)
 - [📂 Cloning the Repository](#-cloning-the-repository)
 - [📜 License](#-license)
