@@ -4,6 +4,24 @@ This project is a **Smart Attendance System** that records attendance using **RF
 
 ---
 
+## 📖 Table of Contents
+- [🚀 Features](#-features)
+- [🛠️ Hardware & Software Requirements](#%EF%B8%8F-hardware--software-requirements)
+  - [🔧 Hardware Components](#-hardware-components)
+  - [🖥️ Software & Tools](#%EF%B8%8F-software--tools)
+- [🛠️ Circuit Diagram](#%EF%B8%8F-circuit-diagram)
+- [🔧 Installation & Setup](#-installation--setup)
+  - [1️⃣ Hardware Setup](#1%EF%B8%8F-hardware-setup)
+  - [2️⃣ Google Sheets & Apps Script Setup](#2%EF%B8%8F-google-sheets--apps-script-setup)
+  - [3️⃣ Arduino & NodeMCU Code](#3%EF%B8%8F-arduino--nodemcu-code)
+- [🔧 How It Works](#-how-it-works)
+- [📂 Cloning the Repository](#-cloning-the-repository)
+- [📜 License](#-license)
+- [🤝 Contributions](#-contributions)
+- [📧 Contact](#-contact)
+
+---
+
 ## 🚀 Features
 - 📍 **RFID-based attendance marking**
 - 📊 **Data stored in Google Sheets**
