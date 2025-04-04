@@ -51,7 +51,8 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 ---
 
 ## 🛠️ Circuit Diagram
-![Circuit Diagram](circuit%20diagram.jpg)
+![image](https://github.com/user-attachments/assets/609efff1-af40-4e35-b8ea-a532d852c1e6)
+
 
 ---
 
