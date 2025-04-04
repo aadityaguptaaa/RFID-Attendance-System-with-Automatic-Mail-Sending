@@ -89,7 +89,7 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 ## 📂 Cloning the Repository
 To clone this repository and set up the project on your system, run the following command:
 ```sh
- git clone https://github.com/aadityaguptaaa/RFID-Attendance-System.git
+ git clone https://github.com/aadityaguptaaa/RFID-Attendance-System-with-Automatic-Mail-Sending.git
 ```
 Navigate into the project directory:
 ```sh
