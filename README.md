@@ -4,7 +4,6 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 
 
 
----
 
 ## 📖 Table of Contents
 - [🚀 Features](#-features)
@@ -23,7 +22,7 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 - [📧 Contact](#-contact)
 
 
----
+
 
 
 ## 🚀 Features
@@ -34,7 +33,7 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 - 🖥️ **Web-based data access**
 
 
----
+
 
 
 ## 🛠️ Hardware & Software Requirements
@@ -56,14 +55,14 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 - **Wi-Fi Connectivity**
 
 
----
+
 
 
 ## 🛠️ Circuit Diagram
 ![image](https://github.com/user-attachments/assets/609efff1-af40-4e35-b8ea-a532d852c1e6)
 
 
----
+
 
 
 ## 🔧 Installation & Setup
@@ -86,7 +85,7 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 3. The system will read **RFID tags** and send data to **Google Sheets**.
 
 
----
+
 
 
 ## 🔧 How It Works
@@ -95,7 +94,7 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 3. **Daily email reports** are sent to faculty.
 
 
----
+
 
 
 ## 📂 Cloning the Repository
@@ -109,14 +108,14 @@ Navigate into the project directory:
 ```
 
 
----
+
 
 
 ## 📜 License
 This project is **open-source** under the **MIT License**.
 
 
----
+
 
 
 ## 🤝 Contributions
