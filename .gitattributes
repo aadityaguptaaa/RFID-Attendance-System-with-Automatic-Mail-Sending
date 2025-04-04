@@ -1,0 +1,27 @@
+# Set default text file line endings to LF (useful for cross-platform compatibility)
+* text=auto
+
+# Treat all shell scripts as executable
+*.sh text eol=lf
+
+# Ignore diffing for binary files
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.gif binary
+
+# Arduino and NodeMCU source code files as text
+*.ino text eol=lf
+*.cpp text eol=lf
+*.h text eol=lf
+
+# Google Apps Script files as text
+*.gs text eol=lf
+
+# Ignore compiled binary files
+*.bin binary
+*.hex binary
+
+# Enable Git LFS for large binary files if needed
+*.bin filter=lfs diff=lfs merge=lfs
+*.hex filter=lfs diff=lfs merge=lfs
