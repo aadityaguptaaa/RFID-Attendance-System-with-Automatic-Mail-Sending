@@ -1,6 +1,6 @@
 # 📌 RFID Attendance System with Google Sheets & Automatic Email Sending
 
-This project is a **Smart Attendance System** that records attendance using **RFID technology** and stores it in **Google Sheets**. Additionally, it **sends automated email reports** with attendance data.
+This project is a **Smart Attendance System** developed as part of my **Computer Organization and Architecture (COA) project**. It records attendance using **RFID technology**, stores data in **Google Sheets**, and **sends automated email reports** with attendance data.
 
 ---
 
