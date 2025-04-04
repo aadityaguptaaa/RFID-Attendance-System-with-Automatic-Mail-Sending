@@ -5,6 +5,8 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 
 
 
+
+
 ## 📖 Table of Contents
 - [🚀 Features](#-features)
 - [🛠️ Hardware & Software Requirements](#%EF%B8%8F-hardware--software-requirements)
@@ -25,12 +27,16 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 
 
 
+
+
 ## 🚀 Features
 - 📍 **RFID-based attendance marking**
 - 📊 **Data stored in Google Sheets**
 - 📧 **Automatic email reports to faculty**
 - 🔔 **Daily scheduled email triggers**
 - 🖥️ **Web-based data access**
+
+
 
 
 
@@ -58,8 +64,12 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 
 
 
+
+
 ## 🛠️ Circuit Diagram
 ![image](https://github.com/user-attachments/assets/609efff1-af40-4e35-b8ea-a532d852c1e6)
+
+
 
 
 
@@ -88,10 +98,14 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 
 
 
+
+
 ## 🔧 How It Works
 1. **Scan an RFID card** - The system records attendance.
 2. **Data is sent to Google Sheets** - Time and Name are stored.
 3. **Daily email reports** are sent to faculty.
+
+
 
 
 
@@ -111,8 +125,12 @@ Navigate into the project directory:
 
 
 
+
+
 ## 📜 License
 This project is **open-source** under the **MIT License**.
+
+
 
 
 
@@ -126,7 +144,9 @@ We welcome contributions! To contribute:
 4. Open a **Pull Request**.
 
 
----
+
+
+
 
 ## 📧 Contact
 For queries, contact: `aadityavidit@gmail.com`
