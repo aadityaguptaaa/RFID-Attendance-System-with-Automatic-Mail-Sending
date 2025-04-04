@@ -4,6 +4,8 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 
 
 
+---
+
 ## 📖 Table of Contents
 - [🚀 Features](#-features)
 - [🛠️ Hardware & Software Requirements](#%EF%B8%8F-hardware--software-requirements)
@@ -20,7 +22,9 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 - [🤝 Contributions](#-contributions)
 - [📧 Contact](#-contact)
 
+
 ---
+
 
 ## 🚀 Features
 - 📍 **RFID-based attendance marking**
@@ -29,7 +33,9 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 - 🔔 **Daily scheduled email triggers**
 - 🖥️ **Web-based data access**
 
+
 ---
+
 
 ## 🛠️ Hardware & Software Requirements
 
@@ -41,6 +47,7 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 - **Jumper Wires**
 - **Power Supply (5V)**
 
+
 ### 🖥️ **Software & Tools**
 - **Google Apps Script** (for automation)
 - **Google Sheets** (for storing attendance data)
@@ -48,12 +55,16 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 - **SMTP Mail API** (for sending emails)
 - **Wi-Fi Connectivity**
 
+
 ---
+
 
 ## 🛠️ Circuit Diagram
 ![image](https://github.com/user-attachments/assets/609efff1-af40-4e35-b8ea-a532d852c1e6)
 
+
 ---
+
 
 ## 🔧 Installation & Setup
 
@@ -62,8 +73,6 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 2. Connect **LCD display** via **I2C**.
 3. Attach **Buzzer** for alerts.
 
----
-
 ### 2️⃣ **Google Sheets & Apps Script Setup**
 1. Create a **Google Sheet** with columns: `Date`, `Time`, `Name`.
 2. Open **Google Apps Script** and paste the provided script.
@@ -71,21 +80,23 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 4. Deploy the script as a **web app** (`doGet` function will handle data entry).
 5. Set a **time-based trigger** to schedule email reports daily.
 
----
-
 ### 3️⃣ **Arduino & NodeMCU Code**
 1. Upload the **Arduino Sketch** to **NodeMCU**.
 2. Ensure the correct **Wi-Fi SSID & Password** are entered.
 3. The system will read **RFID tags** and send data to **Google Sheets**.
 
+
 ---
+
 
 ## 🔧 How It Works
 1. **Scan an RFID card** - The system records attendance.
 2. **Data is sent to Google Sheets** - Time and Name are stored.
 3. **Daily email reports** are sent to faculty.
 
+
 ---
+
 
 ## 📂 Cloning the Repository
 To clone this repository and set up the project on your system, run the following command:
@@ -97,12 +108,16 @@ Navigate into the project directory:
  cd RFID-Attendance-System
 ```
 
+
 ---
+
 
 ## 📜 License
 This project is **open-source** under the **MIT License**.
 
+
 ---
+
 
 ## 🤝 Contributions
 We welcome contributions! To contribute:
@@ -111,8 +126,9 @@ We welcome contributions! To contribute:
 3. Commit your **changes** and push.
 4. Open a **Pull Request**.
 
+
 ---
 
 ## 📧 Contact
 For queries, contact: `aadityavidit@gmail.com`
-
+do thin in between line
