@@ -93,7 +93,7 @@ To clone this repository and set up the project on your system, run the followin
 ```
 Navigate into the project directory:
 ```sh
- cd RFID-Attendance-System
+ cd RFID-Attendance-System-with-Automatic-Mail-Sending
 ```
 
 
