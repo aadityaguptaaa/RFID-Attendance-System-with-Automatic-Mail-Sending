@@ -4,6 +4,7 @@ This project is a **Smart Attendance System** developed as part of my **Computer
 
 
 
+
 ## 📖 Table of Contents
 - [🚀 Features](#-features)
 - [🛠️ Hardware & Software Requirements](#%EF%B8%8F-hardware--software-requirements)
